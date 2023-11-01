@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: portfolio
-          image: acrdemosample.azurecr.io/portfolio-app:v1
+          image: aksdemo79.azurecr.io/portfolio-app:v1
           ports:
             - containerPort: 8045
 ---
